@@ -11,7 +11,7 @@ Some small projects for practice
  - [x] **统计元音字母(Count Vowels)**——输入一个字符串，统计处其中元音字母的数量。更复杂点的话统记每个元音字母的数量。
  - [x] **判断是否为回文(Check if Palindrome)**——判断用户输入的字符串是否为回文。回文是指正反拼写形式都是一样的词，如“racecar”。
  - [x] **统计字符串中的单词数目(Count Words in a String)**——统计字符串中单词的数目，更复杂的话从一个文本找出字符串并生成单词数目统计结果。
- - [ ] **文本编辑器(Text Editor)**——记事本类型的应用，可以打开、编辑保存文本文档。可以增加单词高亮和其它的一些特性。
+ - [x] **文本编辑器(Text Editor)**——记事本类型的应用，可以打开、编辑保存文本文档。可以增加单词高亮和其它的一些特性。
  - [ ] **RSS源创建器(RSS Feed Creator)**——可以从其它来源读取文本并将其以RSS或者Atom的格式发布出去。
  - [ ] **实时股价(Quote Tracker (market symbols etc))**——可以查询股票当前价格。用户可以设定数据刷新频率，程序会用绿色和红色的箭头画股价走势。
  - [ ] **访客留言簿/日志(Guestbook / Journal)**——允许人们添加评论或者日记，可以设置开启/关闭评论，并且可以记录下每一条目的时间。也可以做成喊话器。
@@ -25,7 +25,7 @@ Some small projects for practice
 
 ## 网络
  - [ ] **FTP工具(FTP Program)**——与远程网络服务器交互文件。
- - [ ] **原子钟校时(Get Atomic Time from Internet Clock)**——从网上同步原子钟时间。全世界有很多原子钟，可以把它们都列出来。
+ - [x] **原子钟校时(Get Atomic Time from Internet Clock)**——从网上同步原子钟时间。全世界有很多原子钟，可以把它们都列出来。
  - [ ] **聊天应用（IRC或者MSN风格的）(Chat Application (IRC or MSN Style))**——像IRC那样的聊天软件或者MSN那样的实时聊天软件。更复杂一点的话，可以为聊天制定一套你自己的传输协议。
  - [ ] **获取当前天气(Fetch Current Weather)**——获取某地区当前的天气情况。
  - [ ] **P2P文件共享应用(P2P File Sharing App)**——像LimeWire、FrostWire、Bearshare或者torrect风格的应用。
