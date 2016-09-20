@@ -12,7 +12,7 @@ Some small projects for practice
  - [x] **判断是否为回文(Check if Palindrome)**——判断用户输入的字符串是否为回文。回文是指正反拼写形式都是一样的词，如“racecar”。
  - [x] **统计字符串中的单词数目(Count Words in a String)**——统计字符串中单词的数目，更复杂的话从一个文本找出字符串并生成单词数目统计结果。
  - [x] **文本编辑器(Text Editor)**——记事本类型的应用，可以打开、编辑保存文本文档。可以增加单词高亮和其它的一些特性。
- - [ ] **RSS源创建器(RSS Feed Creator)**——可以从其它来源读取文本并将其以RSS或者Atom的格式发布出去。
+ - [x] **RSS源创建器(RSS Feed Creator)**——可以从其它来源读取文本并将其以RSS或者Atom的格式发布出去。
  - [ ] **实时股价(Quote Tracker (market symbols etc))**——可以查询股票当前价格。用户可以设定数据刷新频率，程序会用绿色和红色的箭头画股价走势。
  - [ ] **访客留言簿/日志(Guestbook / Journal)**——允许人们添加评论或者日记，可以设置开启/关闭评论，并且可以记录下每一条目的时间。也可以做成喊话器。
  - [ ] **新闻和比分播报器(News Ticker and Game Scores)**——一个桌面应用，可以从网上收集新闻和比赛分数，将结果在屏幕上滚动播出。
