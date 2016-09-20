@@ -32,7 +32,7 @@ Some small projects for practice
  - [ ] **端口扫描器(Port Scanner)**——输入某个ip地址和端口区间，程序会逐个尝试区间内的端口，如果能成功连接的话就将该端口标记为open。
  - [ ] **邮件工具（POP3/IMAP）(Mail Checker (POP3 / IMAP))**——用户输入一些账号信息，包括服务器、ip、协议类型（POP或者IMAP），应用每隔一段时间就会检查下该账号下的邮箱。
  - [ ] **IP注册查询(Country from IP Lookup)**——输入ip地址，查询该ip是在哪注册的。
- - [ ] **whois查询工具(Whois Search Tool)**——输入一个ip或者主机地址，通过whois查询并将结果返回。
+ - [x] **whois查询工具(Whois Search Tool)**——输入一个ip或者主机地址，通过whois查询并将结果返回。
  - [ ] **邮编查询(Zip / Postal Code Lookup)**——输入邮编，返回使用该邮编的地址名称。
  - [ ] **远程登入(Remote Login)**——远程登入桌面类型的应用，可以查看和控制远程电脑（假如你已经获得权限）。可能需要你自己的网络和两台电脑来进行测试。
  - [ ] **网站定时检查器(Site Checker with Time Scheduling)**——每隔一段时间或者在预定的时间尝试连接某个网站或者服务器，来检查它是否可以连上，如果连不上了会通过邮件或者桌面通知来告知你。
