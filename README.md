@@ -31,7 +31,7 @@ Some small projects for practice
  - [ ] **P2P文件共享应用(P2P File Sharing App)**——像LimeWire、FrostWire、Bearshare或者torrect风格的应用。
  - [ ] **端口扫描器(Port Scanner)**——输入某个ip地址和端口区间，程序会逐个尝试区间内的端口，如果能成功连接的话就将该端口标记为open。
  - [ ] **邮件工具（POP3/IMAP）(Mail Checker (POP3 / IMAP))**——用户输入一些账号信息，包括服务器、ip、协议类型（POP或者IMAP），应用每隔一段时间就会检查下该账号下的邮箱。
- - [ ] **IP注册查询(Country from IP Lookup)**——输入ip地址，查询该ip是在哪注册的。
+ - [x] **IP注册查询(Country from IP Lookup)**——输入ip地址，查询该ip是在哪注册的。
  - [x] **whois查询工具(Whois Search Tool)**——输入一个ip或者主机地址，通过whois查询并将结果返回。
  - [ ] **邮编查询(Zip / Postal Code Lookup)**——输入邮编，返回使用该邮编的地址名称。
  - [ ] **远程登入(Remote Login)**——远程登入桌面类型的应用，可以查看和控制远程电脑（假如你已经获得权限）。可能需要你自己的网络和两台电脑来进行测试。
